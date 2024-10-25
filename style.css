@@ -1,0 +1,41 @@
+body {
+<--	text-align: center; -->
+	font-family: Arial, Helvetica, sans-serif;
+	background: rgb(52, 49, 52); 
+	border: solid gray;
+	padding-bottom: 30px;
+	margin: 20px 250px;
+	min-width: 450px;
+}
+
+* {
+	text-align: center;
+	color: white;
+}
+
+h1 {
+	border: 1px white;
+}
+
+h2 {
+	padding-top: 20px;
+}
+
+ul {
+	display: table;
+	margin: 0 auto;
+}
+
+.based-img {
+	width: 300px;
+	height: 160px;
+}
+
+.yetopen-img {
+	width: 200px;
+	height: 200px;
+	text-align: right;
+	border: 2px solid gray;
+	margin-top: 15px;
+}
+
